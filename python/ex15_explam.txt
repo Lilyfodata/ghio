@@ -1,0 +1,21 @@
+For this exercise, try these things:
+
+Make your script print another line.
+Make your script print only one of the lines.
+Put a # (octothorpe) character at the beginning of a line. What did it do? Try to find out what this character does.
+
+ex3
+Above each line, use the # to write a comment to yourself explaining what the line does.
+Remember in Exercise 0 when you started python? Start python this way again and using the math operators, use Python as a calculator.
+Find something you need to calculate and write a new .py file that does it.
+Notice the math seems "wrong"? There are no fractions, only whole numbers. You need to use a "floating point" number, which is a number with a decimal point, as in 10.5, or 0.89, or even 3.0.
+Rewrite ex3.py to use floating point numbers so it's more accurate. 20.0 is floating point.
+
+
+ex5
+Change all the variables so there is no my_ in front of each one. Make sure you change the name everywhere, not just where you used = to set them.
+Try to write some variables that convert the inches and pounds to centimeters and kilograms. Do not just type in the measurements. Work out the math in Python.
+Search online for all of the Python format characters.
+--https://docs.python.org/2.7/library/stdtypes.html#string-formatting
+
+Try more format characters. %r is a very useful one. It's like saying "print this no matter what."
